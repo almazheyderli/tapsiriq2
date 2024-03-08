@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\almaz c#\almaz\almaz\obj\Debug\net8.0\almaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\almaz c#\almaz\almaz\obj\Debug\net8.0\almaz.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\almaz c#\almaz\almaz\obj\Debug\net8.0\almaz.AssemblyInfo.cs
+C:\Users\User\Desktop\almaz c#\almaz\almaz\obj\Debug\net8.0\almaz.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\almaz c#\almaz\almaz\obj\Debug\net8.0\almaz.sourcelink.json
+C:\Users\User\Desktop\almaz c#\almaz\almaz\bin\Debug\net8.0\almaz.exe
+C:\Users\User\Desktop\almaz c#\almaz\almaz\bin\Debug\net8.0\almaz.deps.json
+C:\Users\User\Desktop\almaz c#\almaz\almaz\bin\Debug\net8.0\almaz.runtimeconfig.json
+C:\Users\User\Desktop\almaz c#\almaz\almaz\bin\Debug\net8.0\almaz.dll
+C:\Users\User\Desktop\almaz c#\almaz\almaz\bin\Debug\net8.0\almaz.pdb
+C:\Users\User\Desktop\almaz c#\almaz\almaz\obj\Debug\net8.0\almaz.dll
+C:\Users\User\Desktop\almaz c#\almaz\almaz\obj\Debug\net8.0\refint\almaz.dll
+C:\Users\User\Desktop\almaz c#\almaz\almaz\obj\Debug\net8.0\almaz.pdb
+C:\Users\User\Desktop\almaz c#\almaz\almaz\obj\Debug\net8.0\almaz.genruntimeconfig.cache
+C:\Users\User\Desktop\almaz c#\almaz\almaz\obj\Debug\net8.0\ref\almaz.dll
